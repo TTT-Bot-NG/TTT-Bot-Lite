@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ttt-bot", "ttt-bot.csproj", "{970F13BF-4E67-49B3-A9EA-25B88314F15A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT-Bot", "TTT-Bot/TTT-Bot.csproj", "{970F13BF-4E67-49B3-A9EA-25B88314F15A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
