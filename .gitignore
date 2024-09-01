@@ -1,6 +1,10 @@
 .idea/
+.vscode/
+.vs/
 
-src/obj
-src/bin
+*.user
 
-src/.env
+obj/
+bin/
+
+.env/
